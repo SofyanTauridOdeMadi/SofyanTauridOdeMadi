@@ -17,28 +17,6 @@ Saya adalah mahasiswa **Universitas Negeri Makassar**, angkatan **2022**. 🚀
 
 ---
 
-## 🌐 **Connect with Me**
-
-<div align="center">
-  <a href="https://instagram.com/72_stom">
-    <img src="https://img.shields.io/badge/Instagram-@72_stom-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://facebook.com/SofyanTauridOdeMadi">
-    <img src="https://img.shields.io/badge/Facebook-@SofyanTauridOdeMadi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://discord.tuipro.xyz/">
-    <img src="https://img.shields.io/badge/Discord-Tui%20Pro-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:sofyantauridodemadi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sofyantauridodemadi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://wa.me/+6282320577639">
-    <img src="https://img.shields.io/badge/WhatsApp-082320577639-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</div>
-
----
-
 ## 📈 **My Projects**
 
 > 🚧 *Proyek saya masih dalam pengembangan! Stay tuned untuk pembaruan menarik.*
@@ -68,5 +46,23 @@ Saya adalah mahasiswa **Universitas Negeri Makassar**, angkatan **2022**. 🚀
 > Saya suka menonton film dari berbagai genre kecuali horor, dan sering merasa seperti bisa jadi penulis..., Tapi cuma di kepala!  
 
 ---
+
+<div align="center">
+  <a href="https://instagram.com/72_stom">
+    <img src="https://img.shields.io/badge/Instagram-@72_stom-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://facebook.com/SofyanTauridOdeMadi">
+    <img src="https://img.shields.io/badge/Facebook-@SofyanTauridOdeMadi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://discord.tuipro.xyz/">
+    <img src="https://img.shields.io/badge/Discord-Tui%20Pro-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:sofyantauridodemadi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sofyantauridodemadi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/+6282320577639">
+    <img src="https://img.shields.io/badge/WhatsApp-082320577639-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
 
 🎉 **Terima kasih telah berkunjung ke profil saya! Jangan lupa untuk memberi ⭐ di proyek saya jika Anda merasa itu menarik.**
