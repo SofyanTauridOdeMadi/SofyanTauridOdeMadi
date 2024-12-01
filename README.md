@@ -1,5 +1,7 @@
+<div align="center">
+  
 # 🌟 Hello, World! I'm STOM! 🌟
-
+</div>
 👋 **Perkenalkan**, nama saya **Sofyan Taurid Ode Madi**, tetapi teman-teman sering memanggil saya **STOM** (singkatan dari nama saya).  
 Saya adalah mahasiswa **Universitas Negeri Makassar**, angkatan **2022**. 🚀  
 
@@ -36,7 +38,10 @@ Saya adalah mahasiswa **Universitas Negeri Makassar**, angkatan **2022**. 🚀
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofyantauridodemadi&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</div>
 
 ---
 
