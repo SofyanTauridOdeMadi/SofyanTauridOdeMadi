@@ -2,6 +2,7 @@
   
 # 🌟 Hello, World! I'm STOM! 🌟
 </div>
+
 👋 **Perkenalkan**, nama saya **Sofyan Taurid Ode Madi**, tetapi teman-teman sering memanggil saya **STOM** (singkatan dari nama saya).  
 Saya adalah mahasiswa **Universitas Negeri Makassar**, angkatan **2022**. 🚀  
 
