@@ -24,7 +24,7 @@ Saya adalah mahasiswa **Universitas Negeri Makassar**, angkatan **2022**. 🚀
 <div align="center">
   <img src="https://github.com/SofyanTauridOdeMadi/Minum-Yuk/blob/main/app/src/main/res/drawable/gelas.png" alt="Minum Yuk" width="200">
   <img src="https://github.com/SofyanTauridOdeMadi/juscang/blob/master/assets/logo.png" alt="Juscang" width="200">
-  <img src="https://github.com/SofyanTauridOdeMadi/Forxunm/blob/master/assets/logo.png" alt="Forxunm" width="200">
+  <img src="https://github.com/SofyanTauridOdeMadi/Forxunm/blob/master/assets/logo.png" alt="ForXunm" width="200">
 </div>
 
 ---
