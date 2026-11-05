@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- RETRO PIXEL HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12002B,50:3B176D,100:7652A8&height=190&section=header&text=STOM&fontSize=76&fontColor=F8F0FF&animation=fadeIn&fontAlignY=38&desc=PLAYER%201%20%7C%20WELCOME%20TO%20MY%20PIXEL%20WORLD&descSize=13&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B0B,50:6B1118,100:C62828&height=180&section=header&text=STOM&fontSize=76&fontColor=FFFFFF&fontAlignY=42&desc=DREAM%20%E2%80%A2%20CODE%20%E2%80%A2%20CREATE&descSize=17&descColor=FFE8D6&descAlignY=75" width="100%" alt="STOM retro pixel banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2800&pause=900&color=C8A7FF&center=true&vCenter=true&width=650&lines=HELLO%2C+WORLD!;I'M+SOFYAN+TAURID+ODE+MADI;COMPUTER+ENGINEERING+STUDENT;IDEAS+INTO+PIXELS%2C+PIXELS+INTO+PROJECTS" alt="Typing SVG" />
-
-<br>
-
-<img src="stom-walk.gif" width="190" alt="STOM pixel character walking" />
+<img src="stom-walk.gif" width="150" alt="STOM pixel character walking"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/PLAYER-STOM-7652A8?style=for-the-badge&labelColor=160D28" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20NEW%20THINGS-62C370?style=for-the-badge&labelColor=160D28" />
-<img src="https://komarev.com/ghpvc/?username=SofyanTauridOdeMadi&label=VISITORS&color=7652A8&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2800&pause=900&color=E53935&center=true&vCenter=true&width=650&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+PIXEL+WORLD;I'M+SOFYAN+%2F+STOM" alt="Typing animation"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PLAYER-STOM-8B1E24?style=for-the-badge&labelColor=160B0B"/>
+<img src="https://img.shields.io/badge/CLASS-COMPUTER%20ENGINEERING-8B1E24?style=for-the-badge&labelColor=160B0B"/>
+<img src="https://img.shields.io/badge/REGION-INDONESIA-8B1E24?style=for-the-badge&labelColor=160B0B"/>
 
 </div>
 
@@ -21,42 +20,52 @@
 
 ## 🧑‍🚀 PLAYER PROFILE
 
-```text
-╔══════════════════════════════════════════╗
-║              PLAYER PROFILE              ║
-╠══════════════════════════════════════════╣
-║  NAME       : Sofyan Taurid Ode Madi      ║
-║  NICKNAME   : STOM                        ║
-║  STUDY      : Computer Engineering        ║
-║  UNIVERSITY : Universitas Negeri Makassar ║
-║  CLASS      : 2022                        ║
-║  LOCATION   : Indonesia                   ║
-╚══════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td width="190" align="center" valign="middle">
 
-Hi! I'm **Sofyan Taurid Ode Madi**, also known as **STOM**. I'm a Computer Engineering graduate from Universitas Negeri Makassar who enjoys exploring technology, building applications, and turning ideas into digital projects.
+<img src="stom-walk.gif" width="145" alt="STOM avatar"/>
 
-I like learning by experimenting, creating things, and occasionally wondering why a tiny missing semicolon can ruin an otherwise peaceful afternoon.
+**PLAYER 001**  
+`STOM`
 
-## 🎮 CURRENT QUESTS
+</td>
+<td valign="middle">
 
-- 💻 Exploring software and application development.
-- 🌐 Learning and building for the web.
-- 📱 Exploring mobile application development.
-- 🖥️ Learning more about computer systems and networking.
-- 🎨 Combining technology with graphic and interface design.
+**Hi! I'm Sofyan Taurid Ode Madi**, but you can call me **STOM**.
 
-## 🧰 INVENTORY / TECH STACK
+🎓 Computer Engineering student at **Universitas Negeri Makassar** (Class of 2022).
+
+💻 Interested in application development, web technologies, computer systems, and creative digital projects.
+
+| PLAYER DATA | DETAILS |
+|:--|:--|
+| Field of Study | Teknik Komputer |
+| University | Universitas Negeri Makassar |
+| Interests | Technology, programming & social communities |
+| Currently Learning | Application development |
+| Hobbies | Graphic design, movies & cycling |
+| Biggest Dream | Masuk Surga |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 INVENTORY / TECH SKILLS
 
 <div align="center">
 
-**Languages & Development**
+**LANGUAGES & DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,dart,flutter,mysql" alt="Development skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,dart,flutter,mysql&theme=dark" alt="Development skills"/>
 
-**Tools & Platforms**
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,figma,androidstudio" alt="Tools and platforms" />
+**TOOLS & PLATFORMS**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,figma,androidstudio&theme=dark" alt="Tools and platforms"/>
 
 </div>
 
@@ -64,113 +73,109 @@ I like learning by experimenting, creating things, and occasionally wondering wh
 
 ## 🕹️ PROJECT ARCADE
 
-*Choose a project and open its repository.*
-
 <div align="center">
+
+*Choose a game card to enter the project repository.*
+
 <table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/SofyanTauridOdeMadi/Minum-Yuk/">
-        <img src="https://raw.githubusercontent.com/SofyanTauridOdeMadi/Minum-Yuk/main/app/src/main/res/drawable/gelas.png" width="120" alt="Minum Yuk logo" />
-        <br /><br />
-        <strong>🥤 MINUM YUK</strong>
-      </a>
-      <br /><br />
-      Aplikasi bertema pengingat dan pencatatan konsumsi air minum.
-      <br /><br />
-      <a href="https://github.com/SofyanTauridOdeMadi/Minum-Yuk/">
-        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-7652A8?style=for-the-badge&logo=github&logoColor=white" alt="Open Minum Yuk repository" />
-      </a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/SofyanTauridOdeMadi/juscang/">
-        <img src="https://raw.githubusercontent.com/SofyanTauridOdeMadi/juscang/master/assets/logo.png" width="120" alt="Juscang logo" />
-        <br /><br />
-        <strong>📞 JUSCANG</strong>
-      </a>
-      <br /><br />
-      Salah satu proyek aplikasi yang saya kembangkan.
-      <br /><br />
-      <a href="https://github.com/SofyanTauridOdeMadi/juscang/">
-        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-7652A8?style=for-the-badge&logo=github&logoColor=white" alt="Open Juscang repository" />
-      </a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/SofyanTauridOdeMadi/Forxunm/">
-        <img src="https://raw.githubusercontent.com/SofyanTauridOdeMadi/Forxunm/master/assets/logo.png" width="120" alt="ForXunm logo" />
-        <br /><br />
-        <strong>💬 FORXUNM</strong>
-      </a>
-      <br /><br />
-      Proyek pengembangan web yang saya kerjakan.
-      <br /><br />
-      <a href="https://github.com/SofyanTauridOdeMadi/Forxunm/">
-        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-7652A8?style=for-the-badge&logo=github&logoColor=white" alt="Open ForXunm repository" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<a href="https://github.com/SofyanTauridOdeMadi/Minum-Yuk">
+<img src="https://github.com/SofyanTauridOdeMadi/Minum-Yuk/blob/main/app/src/main/res/drawable/gelas.png?raw=true" width="135" height="120" alt="Minum Yuk logo"/>
+</a>
+
+### 🥤 MINUM YUK
+
+Aplikasi pengingat dan pencatatan konsumsi air minum untuk membantu pengguna memantau hidrasi harian.
+
+<a href="https://github.com/SofyanTauridOdeMadi/Minum-Yuk">
+<img src="https://img.shields.io/badge/▶_PLAY_PROJECT-C62828?style=for-the-badge&logo=github&logoColor=white" alt="Open Minum Yuk repository"/>
+</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<a href="https://github.com/SofyanTauridOdeMadi/juscang/">
+<img src="https://github.com/SofyanTauridOdeMadi/juscang/raw/master/assets/logo.png" width="135" height="120" alt="Juscang logo"/>
+</a>
+
+### 📞 JUSCANG
+
+Aplikasi telepon yang dikembangkan sebagai proyek aplikasi komunikasi.
+
+<a href="https://github.com/SofyanTauridOdeMadi/juscang/">
+<img src="https://img.shields.io/badge/▶_PLAY_PROJECT-C62828?style=for-the-badge&logo=github&logoColor=white" alt="Open Juscang repository"/>
+</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<a href="https://github.com/SofyanTauridOdeMadi/Forxunm/">
+<img src="https://github.com/SofyanTauridOdeMadi/Forxunm/raw/master/assets/logo.png" width="135" height="120" alt="ForXunm logo"/>
+</a>
+
+### 💬 FORXUNM
+
+Forum komunitas untuk berdiskusi dan berbagi informasi dengan fokus pada keamanan sistem tingkat tinggi.
+
+<a href="https://github.com/SofyanTauridOdeMadi/Forxunm/">
+<img src="https://img.shields.io/badge/▶_PLAY_PROJECT-C62828?style=for-the-badge&logo=github&logoColor=white" alt="Open ForXunm repository"/>
+</a>
+
+</td>
+</tr>
 </table>
+
 </div>
 
 ---
 
-## 📊 PLAYER STATS
+## 📟 GITHUB STATUS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SofyanTauridOdeMadi&show_icons=true&hide_border=true&bg_color=160D28&title_color=C8A7FF&icon_color=9B7BDB&text_color=F5F0FF&rank_icon=github" alt="STOM GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanTauridOdeMadi&layout=compact&hide_border=true&bg_color=160D28&title_color=C8A7FF&text_color=F5F0FF" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=SofyanTauridOdeMadi&show_icons=true&hide_border=true&bg_color=160B0B&title_color=FF6B6B&icon_color=FF6B6B&text_color=F5E9E0&border_radius=4" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanTauridOdeMadi&layout=compact&hide_border=true&bg_color=160B0B&title_color=FF6B6B&text_color=F5E9E0&border_radius=4" height="165" alt="Most used languages"/>
 
-<br />
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SofyanTauridOdeMadi&hide_border=true&background=160D28&ring=C8A7FF&fire=F2B66D&currStreakLabel=C8A7FF&sideLabels=F5F0FF&dates=B9A9D5" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SofyanTauridOdeMadi&hide_border=true&background=160B0B&ring=E53935&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=F5E9E0&dates=BDAAAA" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## 💾 SECRET ROOM
+## 🎒 SIDE QUESTS
 
 <details>
-  <summary>🎁 Open to discover a few fun facts</summary>
-  <br />
+<summary><b>🎨 Open to discover STOM's fun facts</b></summary>
 
-  - 🎬 I enjoy watching movies from many genres, except horror.
-  - 🎨 I like graphic design and creative projects.
-  - 🚴 I enjoy cycling.
-  - 💡 I often have more ideas in my head than I manage to write down.
-  - 🌌 One of my biggest dreams: masuk surga.
+<br>
+
+- 🎬 Suka menonton film dari berbagai genre, kecuali horor.
+- 🎨 Menyukai desain grafis dan proyek kreatif.
+- 🚴 Gemar bersepeda.
+- 💡 Sering punya ide kreatif, meskipun tidak semuanya langsung diwujudkan.
 
 </details>
 
-<div align="center">
-
-### 💬 SAVE POINT
-
-*"Jika itu bukan milikmu, maka berusahalah agar itu menjadi milikmu."*
-
-</div>
-
 ---
 
-## 🌐 FIND ME ONLINE
+## 📡 CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://instagram.com/72_stom"><img src="https://img.shields.io/badge/Instagram-72__stom-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://facebook.com/SofyanTauridOdeMadi"><img src="https://img.shields.io/badge/Facebook-STOM-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://discord.tuipro.xyz/"><img src="https://img.shields.io/badge/Discord-Tui_Pro-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="mailto:sofyantauridodemadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://wa.me/6282320577639"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://instagram.com/72_stom"><img src="https://img.shields.io/badge/INSTAGRAM-72_STOM-C62828?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://facebook.com/SofyanTauridOdeMadi"><img src="https://img.shields.io/badge/FACEBOOK-STOM-8B1E24?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://discord.tuipro.xyz/"><img src="https://img.shields.io/badge/DISCORD-TUI_PRO-8B1E24?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="mailto:sofyantauridodemadi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-C62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://wa.me/6282320577639"><img src="https://img.shields.io/badge/WHATSAPP-CONTACT_ME-8B1E24?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7652A8,50:3B176D,100:12002B&height=120&section=footer" />
-
-**THANKS FOR VISITING MY PIXEL WORLD!**
-
-<sub>Made with 💜, curiosity, and a little bit of pixel magic.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B0B,50:6B1118,100:C62828&height=75&section=footer" width="100%" alt="Red pixel-style footer"/>
 
 </div>
