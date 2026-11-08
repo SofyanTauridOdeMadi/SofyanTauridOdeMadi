@@ -24,7 +24,7 @@
 <tr>
 <td width="190" align="center" valign="middle">
 
-<img src="stom-walk.gif" width="145" alt="STOM avatar"/>
+<img src="./stom-walk.gif" width="170" alt="STOM avatar">
 
 **PLAYER 001**  
 `STOM`
@@ -135,12 +135,13 @@ Forum komunitas untuk berdiskusi dan berbagi informasi dengan fokus pada keamana
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SofyanTauridOdeMadi&show_icons=true&hide_border=true&bg_color=160B0B&title_color=FF6B6B&icon_color=FF6B6B&text_color=F5E9E0&border_radius=4" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanTauridOdeMadi&layout=compact&hide_border=true&bg_color=160B0B&title_color=FF6B6B&text_color=F5E9E0&border_radius=4" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SofyanTauridOdeMadi&show_icons=true&theme=dark&bg_color=160B0B&title_color=FF6B6B&icon_color=FF6B6B&text_color=F5E9E0&hide_border=true" height="165" alt="GitHub Statistics"/>
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanTauridOdeMadi&layout=compact&theme=dark&bg_color=160B0B&title_color=FF6B6B&text_color=F5E9E0&hide_border=true" height="165" alt="Most Used Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SofyanTauridOdeMadi&hide_border=true&background=160B0B&ring=E53935&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=F5E9E0&dates=BDAAAA" alt="GitHub streak"/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=SofyanTauridOdeMadi&theme=dark&background=160B0B&ring=E53935&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=F5E9E0&dates=BDAAAA&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
