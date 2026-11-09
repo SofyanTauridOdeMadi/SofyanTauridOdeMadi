@@ -1,11 +1,5 @@
 <div align="center">
 <img src="./assets/header.gif" width="100%" alt="STOM — Dream • Code • Create. Karakter pixel STOM berjalan di depan kampus UNM"/>
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2800&pause=900&color=E53935&center=true&vCenter=true&width=650&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+PIXEL+WORLD;I'M+SOFYAN+%2F+STOM;LET'S+CODE!" alt="Typing animation"/>
-<br>
-<img src="https://img.shields.io/badge/PLAYER-STOM-8B1E24?style=for-the-badge&labelColor=160B0B"/>
-<img src="https://img.shields.io/badge/CLASS-COMPUTER%20ENGINEERING-8B1E24?style=for-the-badge&labelColor=160B0B"/>
-<img src="https://img.shields.io/badge/REGION-INDONESIA-8B1E24?style=for-the-badge&labelColor=160B0B"/>
-<br><br>
 <img src="./assets/about.svg" width="49%" alt="About Me — Sofyan Taurid Ode Madi, Teknik Komputer UNM"/>
 <img src="./assets/skills.svg" width="49%" alt="Skills — HTML, CSS, JS, Node.js, Flutter, Dart, MySQL, VS Code, Git, GitHub, Linux, Windows, Figma, Android"/>
 <img src="./assets/projects-title.svg" width="100%" alt="My Projects"/>
