@@ -2,8 +2,8 @@ name: Update GitHub Status
 
 on:
   schedule:
-    - cron: "0 */12 * * *"      # setiap 12 jam
-  workflow_dispatch:             # bisa dijalankan manual dari tab Actions
+    - cron: "0 */12 * * *"
+  workflow_dispatch: 
   push:
     paths:
       - "scripts/gen_stats.py"
@@ -29,5 +29,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/stats.svg assets/langs.svg assets/streak.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub status cards"
+          git diff --cached --quiet || git commit -m "chore: Perbarui GitHub status cards"
           git push
